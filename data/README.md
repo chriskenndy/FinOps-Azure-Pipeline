@@ -1,1 +1,1 @@
-Folder for Unprocessed and Cleaned Datasets
+Folder for Generated Datasets (# Brief note about data simulation)
